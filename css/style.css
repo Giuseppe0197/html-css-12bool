@@ -20,12 +20,16 @@ span {
     transform: translate(-50%, -50%);
 }
 
-[class*="green-"] {
-    height: 40px;
+.green {
+    height: 30px;
     margin-top: 10px;
     background-color: #00E165;
     border: 1px solid #006CFA;
-    position: relative;
+}
+
+.green-row {
+    width: 95%;
+    margin: auto;
 }
 
 .container {
