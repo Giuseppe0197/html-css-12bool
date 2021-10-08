@@ -27,3 +27,7 @@ span {
     border: 1px solid #006CFA;
     position: relative;
 }
+
+.container {
+    margin-bottom: 20px;
+}
